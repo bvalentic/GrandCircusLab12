@@ -1,0 +1,14 @@
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\bin\Debug\GrandCircusLab12.exe.config
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\bin\Debug\GrandCircusLab12.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\bin\Debug\GrandCircusLab12.pdb
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\obj\Debug\GrandCircusLab12.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\obj\Debug\GrandCircusLab12.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\obj\Debug\GrandCircusLab12.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab12\GrandCircusLab12\obj\Debug\GrandCircusLab12.pdb
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\bin\Debug\GrandCircusLab12.exe.config
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\bin\Debug\GrandCircusLab12.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\bin\Debug\GrandCircusLab12.pdb
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\obj\Debug\GrandCircusLab12.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\obj\Debug\GrandCircusLab12.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\obj\Debug\GrandCircusLab12.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab12_Bonus5\GrandCircusLab12\obj\Debug\GrandCircusLab12.pdb
